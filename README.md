@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats-five-zeta-25.vercel.app/api/top-langs/?username=k-shar&langs_count=6&layout=compact&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats-five-zeta-25.vercel.app/api/top-langs/?username=k-shar&langs_count=8&layout=compact&hide_progress=true&theme=radical)
 ![Stats](https://github-readme-stats-five-zeta-25.vercel.app/api?username=k-shar&hide=stars&theme=radical&show_icons=true&hide_rank=true)
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=k-shar&langs_count=6&layout=compact&hide_progress=true -->
