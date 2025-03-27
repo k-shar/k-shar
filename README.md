@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats-five-zeta-25.vercel.app/api/top-langs/?username=k-shar&langs_count=6&layout=compact&hide_progress=true)
 
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=k-shar&langs_count=6&layout=compact&hide_progress=true -->
+
 <!--
 **k-shar/k-shar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
